@@ -11,7 +11,7 @@ const SideNav = () => {
   return (
     <div className="flex-1.5 p-6 md:p-10 flex flex-col gap-y-8 ">
 
-      <h1 className="text-gray-300 text-8xl text-shadow-custom tracking-wide font-fleur cursor-default appearance-none -mb-3 md:-my-4"><div className="text-left">Stardust</div><div className="text-right mr-3">Weather</div></h1>
+      <h1 className="text-gray-300 text-8xl text-center text-shadow-custom tracking-wide font-fleur cursor-default appearance-none -mb-3 md:-my-4"><div className="-ml-28">Stardust</div><div className="-mr-24">Weather</div></h1>
 
       {/* Celsius to Fahrenheit toggle button */}
       <button onClick={toggleTemperatureUnit}>
