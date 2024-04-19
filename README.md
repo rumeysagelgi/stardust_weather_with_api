@@ -3,10 +3,11 @@
 ## Demonstration Link:
 https://stardust-weather-with-api-rumeysa-gelgis-projects.vercel.app
 
-7-day demonstration:
+<br>
+
+***7-day demonstration:***
 
 <img src="https://github.com/rumeysagelgi/stardust_weather_with_api/blob/main/screenshots/Firefox_Screenshot_2024-04-19T11-20-00.632Z.png" alt="7-day-screenshot" width="600"/>
-
 
 ## Description:
 Stardust Weather is a web application dedicated to delivering accurate weather forecasts. Providing users with in-depth insights into their locations and current weather conditions. It offers a concise 3-day forecast, extendable to 7 days or more with the API paid plan. Users can get most recent data, switch between temperature units, and enjoy seamless access across devices.
