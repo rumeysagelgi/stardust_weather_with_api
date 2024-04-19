@@ -4,7 +4,7 @@
 https://stardust-weather-with-api-rumeysa-gelgis-projects.vercel.app
 
 7-day demonstration:
-<img src="https://github.com/rumeysagelgi/stardust_weather_with_api/blob/main/screenshots/Firefox_Screenshot_2024-04-19T11-20-00.632Z.png" alt="7-day-screenshot" width="700"/>
+<img src="https://github.com/rumeysagelgi/stardust_weather_with_api/blob/main/screenshots/Firefox_Screenshot_2024-04-19T11-20-00.632Z.png" alt="7-day-screenshot" width="500"/>
 
 
 ## Description:
